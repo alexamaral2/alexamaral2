@@ -13,12 +13,17 @@ Sou alguém movido por desafios e apaixonado por tecnologia. Desde que comecei m
 - Criar soluções que sejam não só funcionais, mas também escaláveis e eficientes  
 - Explorar **novas tecnologias** e aplicar boas práticas de engenharia de software  
 
-## 🛠️ Minhas principais habilidades:
-- **Linguagens**: Python, Java, HTML, CSS  
-- **Frameworks**: Django, Spring Boot, React, Vue.js  
-- **Ferramentas**: Docker, UML, Linux  
-- **Bibliotecas e Tecnologias**: Bootstrap, JPA, ORM  
-- **Banco de Dados**: PostgreSQL, MySQL, MongoDB  
+## 🛠️ Minhas principais habilidades
+- **Linguagens:**  
+  Python · Java · HTML · CSS · JavaScript
+- **Frameworks:**  
+  Django · Spring Boot · React · Vue.js · Angular
+- **Ferramentas:**  
+  Docker · UML · Linux
+- **Bibliotecas e Tecnologias:**  
+  Bootstrap · JPA · ORM
+- **Bancos de Dados:**  
+  PostgreSQL · MySQL · MongoDB
 
 ## 🚀 O que você vai encontrar aqui:
 Este espaço é onde compartilho projetos e ideias que me inspiram. Você encontrará experimentos com diferentes tecnologias, soluções para desafios técnicos e alguns dos projetos que refletem minha jornada como desenvolvedor.  
