@@ -3,9 +3,10 @@
 Sou alguém movido por desafios e apaixonado por tecnologia. Desde que comecei minha jornada na programação, descobri o quanto gosto de criar coisas novas, resolver problemas e transformar ideias em soluções práticas e impactantes. 🚀  
 
 ## 🎓 Um pouco sobre minha formação:
-- **Concluinte em Engenharia de Software** na Universidade de Vassouras  
-- **Cursando Sistemas de Informação** na Uninter  
-- **Técnico em Informática** pelo IFRJ (concluído)  
+- **Graduado em Engenharia de Software** na Universidade de Vassouras  
+- **Cursando Bacharelado em Sistemas de Informação** na Uninter
+- **Cursando Pós-Graduação Lato Sensu em Engenharia de Computação e Ciência de Dados/Inteligência Artificial** na Uninter  
+- **Técnico em Informática** pelo IFRJ  
 
 ## 💻 O que eu amo fazer:
 - Desenvolver aplicações **Full-Stack**, explorando desde a construção de interfaces até a lógica por trás do sistema  
