@@ -5,7 +5,7 @@ Sou alguém movido por desafios e apaixonado por tecnologia. Desde que comecei m
 ## 🎓 Um pouco sobre minha formação:
 - **Graduado em Engenharia de Software** - Universidade de Vassouras  
 - **Cursando Bacharelado em Sistemas de Informação** - Uninter
-- **Cursando Pós-Graduação Lato Sensu em Engenharia de Computação e Ciência de Dados/Inteligência Artificial** - Uninter  
+- **Pós-graduado em Engenharia de Computação e Ciência de Dados/Inteligência Artificial** - Uninter  
 - **Técnico em Informática** - IFRJ  
 
 ## 💻 O que eu amo fazer:
